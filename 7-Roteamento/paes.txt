@@ -1,0 +1,9 @@
+nome: pao frances
+tipo de fermentação: natural
+ingredientes: farinha, fermento, agua e sal
+preço por kg: R$8,00
+---------------------------------------------------
+nome: pao de forma integral
+tipo de fermentação: natural
+ingredientes: farinha integral, fermento, agua e sal,
+preço por kg: R$8,00
